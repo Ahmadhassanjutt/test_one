@@ -13,8 +13,11 @@ class Languages extends Translations {
     "ur_PK" : {
       "message" : "آپ کیسے ہیں؟",
       "name" : "احمد",
+    },
+    "es_ES": {
+      "message": "¿Cómo estás?",
+      "name": "Ahmad"
     }
-
 
   } ;
 }
